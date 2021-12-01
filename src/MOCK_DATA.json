@@ -1,0 +1,180 @@
+{
+    "products": [
+        {
+            "p_id": 0,
+            "name": "Bucatini",
+            "imageURL": "https://purewows3.imgix.net/images/articles/2020_02/spicy-bucatini-amatriciana-recipe.jpg?auto=format,compress&cs=strip",
+            "description": "Fugiat sunt minim officia dolor cupidatat non exercitation fugiat incididunt irure eiusmod deserunt sint. Minim non consequat officia aute irure elit. Aliquip consectetur veniam excepteur ullamco labore. Ea laborum velit nisi amet cillum laborum non. Elit eiusmod Lorem ex ullamco nisi non quis ipsum dolore laboris cillum labore duis. Eu mollit qui adipisicing laborum ipsum voluptate ullamco. Irure reprehenderit consequat cupidatat cupidatat excepteur qui. Ad enim enim tempor eu ullamco fugiat nostrud laborum. Deserunt amet pariatur mollit eiusmod elit occaecat est.",
+            "ingredients": [
+                "Tereyağı",
+                "Kaşar Peyniri",
+                "Un"
+            ],
+            "price": 42,
+            "isPopular": true
+        },
+        {
+            "p_id": 1,
+            "name": "Lasagnette",
+            "imageURL": "https://cdn.yemek.com/uploads/2014/06/lazanya-tarifi.jpg",
+            "description": "Lorem fugiat ipsum nisi adipisicing est eu amet nostrud. Ex ad dolor eiusmod ipsum velit exercitation sunt laboris nostrud voluptate veniam. Ullamco est qui voluptate incididunt sunt cupidatat aliquip officia quis commodo irure. Amet quis irure quis do sunt elit ad eiusmod officia aute ad. Incididunt aute in ullamco aliqua sunt commodo. Ad ullamco pariatur cupidatat adipisicing. Veniam duis est fugiat id voluptate ea nostrud Lorem. Occaecat proident ut incididunt adipisicing ex ad sunt exercitation. Occaecat tempor aute qui consectetur culpa cupidatat esse ea tempor.",
+            "ingredients": [
+                "Soğan",
+                "Havuç",
+                "Yağlı Kıyma",
+                "Sarımsak"
+            ],
+            "price": 25,
+            "isPopular": false
+        },
+        {
+            "p_id": 2,
+            "name": "Ravioli",
+            "imageURL": "https://cdn.yemek.com/uploads/2015/10/etli-ravioli-tarifi.jpg",
+            "description": "Ipsum ipsum nostrud deserunt ex veniam magna esse laborum ea nisi nulla est velit. Ullamco culpa irure ipsum consequat aliqua dolor ea commodo enim ad mollit elit duis. Tempor sit ut ad anim id aute Lorem proident. Proident anim ut incididunt et. Enim aute mollit deserunt laboris consequat deserunt consectetur. Dolore nisi laborum eu occaecat officia eiusmod sunt in ullamco officia Lorem eu nostrud sit. Proident officia eiusmod aliqua nulla. Quis laboris eu dolor cillum non enim. Ea exercitation Lorem proident qui sint commodo tempor consectetur. Excepteur fugiat ad deserunt commodo reprehenderit incididunt labore do reprehenderit. Elit mollit duis deserunt officia minim incididunt culpa voluptate quis ut deserunt consequat sint.",
+            "ingredients": [
+                "Lor Peyniri",
+                "Pancar",
+                "Kıyma"
+            ],
+            "price": 24,
+            "isPopular": true
+        },
+        {
+            "p_id": 3,
+            "name": "Carpaccio",
+            "imageURL": "https://www.yemekeli.com/wp-content/uploads/2018/02/Carpaccio.jpg",
+            "description": "Laboris consequat occaecat occaecat est do deserunt est id id sunt sunt fugiat elit. Qui eiusmod excepteur sint veniam irure laborum commodo minim eiusmod irure mollit laboris. Eiusmod voluptate laboris Lorem sit tempor cillum pariatur quis consectetur excepteur anim elit. Magna ut et tempor proident occaecat ad ut proident ad in elit occaecat. Et ipsum nostrud non sunt et ut laboris anim sint occaecat consectetur aute ullamco aliquip. Velit culpa sit sit voluptate elit. Pariatur fugiat tempor consectetur dolor dolor veniam cillum. Nulla minim mollit aliqua eiusmod velit officia Lorem fugiat culpa aliquip voluptate cupidatat. Laborum dolore ad voluptate do nisi minim est magna ex non reprehenderit. Mollit dolor adipisicing nulla consectetur enim dolor laboris deserunt ex anim non labore. Commodo proident enim qui magna qui et elit commodo sit fugiat anim. Labore culpa labore et dolore ipsum in nostrud. Esse ut pariatur qui voluptate sit consectetur id aliqua.",
+            "ingredients": [
+                "Hardal Sosu",
+                "Sığır Filetosu",
+                "Sarımsak",
+                "Parmesan",
+                "Kaşar Peyniri"
+            ],
+            "price": 28,
+            "isPopular": false
+        },
+        {
+            "p_id": 4,
+            "name": "Calzone",
+            "imageURL": "https://cdn.yemek.com/uploads/2016/09/calzone.jpg",
+            "description": "Nisi ullamco dolore Lorem reprehenderit amet dolore ea pariatur nulla adipisicing Lorem mollit consequat commodo. Pariatur occaecat sint aute labore excepteur magna cupidatat dolore dolor nisi ipsum amet eiusmod Lorem. Dolor irure irure voluptate sunt sint magna quis anim incididunt incididunt irure. Reprehenderit labore ullamco occaecat ut minim culpa nisi do quis. Quis occaecat in occaecat esse eiusmod veniam laborum reprehenderit minim deserunt esse dolore. Velit nulla Lorem minim in id in. Magna incididunt dolor eu occaecat ut mollit. Proident ea reprehenderit sint esse veniam cillum velit quis esse. Pariatur sint ipsum officia voluptate est id veniam enim est culpa tempor do consectetur. Officia ad excepteur ex non. Ea incididunt ea quis ullamco enim cillum laboris dolore ea esse.",
+            "ingredients": [
+                "Mozzarella Peyniri",
+                "Roka",
+                "Fesleğen",
+                "Kıyma"
+            ],
+            "price": 34,
+            "isPopular": false
+        }
+    ],
+    "menu": [
+        {
+            "id": 0,
+            "name": "Starters",
+            "imageURL": "https://www.jocooks.com/wp-content/uploads/2016/01/roasted-tomato-soup-1-1.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Salads",
+            "imageURL": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FSeries%2F2021-08-make-ahead-salads%2FMake-Ahead-Salad_Chopped-veggie%2F2021-07-28_ATK-3856"
+        },
+        {
+            "id": 2,
+            "name": "Main",
+            "imageURL": "https://img.taste.com.au/WMldfrFD/taste/2016/11/chicken-and-prosciutto-parmigiana-79468-1.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Desserts",
+            "imageURL": "https://img.taste.com.au/4J_GIVXi/taste/2018/11/berry-ripe-pavlova-143338-1.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Beverages",
+            "imageURL": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/beveragedaily.com/article/2020/01/02/2020-trends-to-watch-in-us-beverage/10484034-2-eng-GB/2020-trends-to-watch-in-US-beverage.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Alcohols",
+            "imageURL": "https://www.hps-pigging.com/wp-content/uploads/2020/12/improving-sustainability-alcoholic-beverageas-industry.jpg"
+        }
+    ],
+    "tables": [
+        {
+            "id": 0,
+            "name": "TERRACE 12",
+            "orders": [
+                {
+                    "name": "Black Coffee",
+                    "price": 21
+                },
+                {
+                    "name": "Croissant",
+                    "price": 15
+                },
+                {
+                    "name": "Lasagnette",
+                    "price": 25
+                },
+                {
+                    "name": "Sprite Soda",
+                    "price": 9
+                },
+                {
+                    "name": "Italian Salad",
+                    "price": 19
+                }
+            ],
+            "isActive": true
+        },
+        {
+            "id": 1,
+            "name": "SALOON 2",
+            "orders": [],
+            "isActive": false
+        },
+        {
+            "id": 2,
+            "name": "SALOON 6",
+            "orders": [],
+            "isActive": false
+        },
+        {
+            "id": 3,
+            "name": "SALOON 9",
+            "orders": [
+                {
+                    "name": "Tea",
+                    "price": 9
+                },
+                {
+                    "name": "Croissant 2x",
+                    "price": 30
+                }
+            ],
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "TERRACE 23",
+            "orders": [
+                {
+                    "name": "Breakfast",
+                    "price": 41
+                },
+                {
+                    "name": "Filter Coffee",
+                    "price": 5
+                },
+                {
+                    "name": "Panna Cotta",
+                    "price": 15
+                }
+            ],
+            "isActive": true
+        }
+    ]
+}
