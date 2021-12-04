@@ -2,6 +2,7 @@ package com.week_3;
 
 import com.facebook.react.ReactActivity;
 
+
 public class MainActivity extends ReactActivity {
 
   /**
@@ -12,4 +13,5 @@ public class MainActivity extends ReactActivity {
   protected String getMainComponentName() {
     return "week_3";
   }
+   
 }
