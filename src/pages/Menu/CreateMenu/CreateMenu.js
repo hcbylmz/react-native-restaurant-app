@@ -17,14 +17,21 @@ export default function CreateMenu() {
   const route = useRoute();
 
   function handleNavigateDetail() {
-    const fd = {
-      name: name,
-      description: description,
-      ingredients: ingredients,
-      price: price,
-    };
-
-    navigation.navigate('MenuDetailPage', {fd});
+    if (!name || !description || !ingredients || !price) {
+      alert('Please fill all fields');
+      return false;
+    }
+    else{
+      const fd = {
+        name: name,
+        description: description,
+        ingredients: ingredients,
+        price: price,
+      };
+  
+      navigation.navigate('MenuDetailPage', {fd});
+    }
+  
   }
 
   return (
