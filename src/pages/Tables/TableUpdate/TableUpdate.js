@@ -6,7 +6,7 @@ import styles from './TableUpdate.styles';
 
 const mapOrders = (order, i) => (
   <View key={i} style={styles.order_container}>
-    <Text style={styles.order_name}>⏺ {order.name}</Text>
+    <Text style={styles.order_name}>{order.name}</Text>
     <Text key={i} style={styles.order_price}>
       {order.price} TL
     </Text>
