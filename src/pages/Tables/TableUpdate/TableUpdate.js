@@ -25,8 +25,10 @@ export default function TableUpdate() {
 
 
   function handleCloseTable() {
+    let copyTable=[table];
+    copyTable[0].orders=[];
     navigation.navigate('TablesPage', {
-      updatedTable: {...table, isActive: false},
+      updatedTable: {...copyTable, isActive: false},
     });
   }
 
