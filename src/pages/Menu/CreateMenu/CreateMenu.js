@@ -28,7 +28,7 @@ export default function CreateMenu() {
   }
 
   return (
-    <SafeAreaView>
+    <SafeAreaView style={styles.container}>
       <Text style={styles.menu_name}>{route.params.menu.name}</Text>
       <Input label="Name" onChangeText={value => setName(value)} />
       <Input
