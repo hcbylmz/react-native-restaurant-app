@@ -25,8 +25,7 @@ export default function ProductDetail() {
         <ScrollView horizontal bounces={false}>
           {product.ingredients.map((ing, ind) => {
             return (
-              <View style={styles.badge_container}key={ind} >
-                {console.log(ind)}
+              <View style={styles.badge_container} key={ind}>
                 <Text style={styles.badge_label}>{ing}</Text>
               </View>
             );
