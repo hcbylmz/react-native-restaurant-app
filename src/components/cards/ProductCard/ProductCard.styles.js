@@ -13,7 +13,7 @@ export default StyleSheet.create({
     margin: 5,
     fontSize: 25,
     color: 'white',
-    fontWeight: '200',
+    fontWeight: '400',
   },
   name_container: {
     flex: 1,
